@@ -125,7 +125,7 @@ public class Board
      * method is called every tick of the game and creates
      * vehicles, moves vehicles,checks if a vehicle has
      * made it to it's end Point or if any vehicle has
-     * collided, which sets the gameRunning varaible to
+     * collided, which sets the gameRunning variable to
      * false.
      */
     public void tick() {
