@@ -34,4 +34,6 @@ cd IntersectionGame
 javac -d bin src/*.java
 
 # Run
-java -cp bin Main
+java -cp bin:res Main     # Linux/Mac
+java -cp bin;res Main     # Windows (note the semicolon)
+
