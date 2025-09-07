@@ -12,6 +12,7 @@ Built with a simple game loop and a responsive Swing UI.
 - Addictive gameplay loop: scoring and menu system.
 - Responsive Swing UI with basic animation.
 - Mouse input handling.
+- Collision detection.
 
 ## Tech stack
 - Java (JDK 22)
