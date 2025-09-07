@@ -5,6 +5,9 @@ Built with a simple game loop and a responsive Swing UI.
 
 ![Java](https://img.shields.io/badge/Java-22-blue) ![2D Game](https://img.shields.io/badge/Type-2D%20Game-green)
 
+## Preview
+![screenshot](/res/GameOverviewScreenshot.png)
+
 ## Features
 - Addictive gameplay loop: scoring and menu system.
 - Responsive Swing UI with basic animation.
